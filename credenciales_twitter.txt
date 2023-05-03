@@ -1,0 +1,6 @@
+cliente_id = "SExwWjhqNE5vTTlBZldWX21KTTg6MTpjaQ"
+client_secret = "v0BKgfBbuHQ126lQabggQ0m0Cfew5WLgdrqILrvR7E-jIPWOJs"
+acces_token = "237508451-RLXP50ncFp9MsdCwT6xNtYnUPsMwgl4A6XFz3y3Q"
+acces_token_secret = "qZkle86ZUsgSt2bxix0BC7l0avltKW1yVrehPG0PL2iCv"
+
+bearer_token = "AAAAAAAAAAAAAAAAAAAAAOxjmQEAAAAAzQgfSJ8HMHbiHSTboz7CWzNbnoE%3D0LWOX1KEmXRj0gNsjo6pKCRDUGdgFkwp4vq0mFyy5IUcO4Cl0q"
